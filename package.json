@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "babel": "^6.23.0"
+  },
+  "name": "babeldemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiexuan-star/babelDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiexuan-star/babelDemo/issues"
+  },
+  "homepage": "https://github.com/xiexuan-star/babelDemo#readme",
+  "description": ""
+}

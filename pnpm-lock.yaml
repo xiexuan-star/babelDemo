@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  babel: ^6.23.0
+
+dependencies:
+  babel: 6.23.0
+
+packages:
+
+  /babel/6.23.0:
+    resolution: {integrity: sha1-0NHn2APpdHZb7qMjLU4VPA77kPQ=}
+    deprecated: In 6.x, the babel package has been deprecated in favor of babel-cli. Check https://opencollective.com/babel to support the Babel maintainers
+    hasBin: true
+    dev: false
