@@ -4,6 +4,9 @@
     "@babel/parser": "^7.18.13",
     "@babel/template": "^7.18.10",
     "@babel/types": "^7.18.13",
+    "acorn": "^8.8.0",
+    "acorn-bigint": "^1.0.0",
+    "acorn-jsx": "^5.3.2",
     "babel": "^6.23.0"
   },
   "type": "module",
