@@ -20,6 +20,3 @@ path.buildCodeFrameError(path,options);
 ```
 
 ### @babel/highlight
-
-
-
